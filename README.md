@@ -1,4 +1,5 @@
-# finalproject
+# Vue.Js project
+This is my first solo beginner project. In this project, i discover Vue.Js framework and i made some little components.
 
 ## Project setup
 ```
